@@ -2,5 +2,5 @@
 
  Meu nome é gabi
  
-- Eu gosto de: Aprender a programar, desenhar/animar e assistir
+- Eu gosto de: Ficar em casa, desenhar/animar e assistir
 - Estou estudando na [Alura](https://cursos.alura.com.br/)
